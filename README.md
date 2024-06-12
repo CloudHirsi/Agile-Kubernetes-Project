@@ -2,7 +2,7 @@
 ## ***Kubernetes Management and Maintenance + Agile Methodologies***
 
 ## **Overview:**
-This project showcases my expertise in managing and maintaining Kubernetes clusters, utilizing Agile methodologies and Scrum principles to ensure efficient project management and delivery. By leveraging Jira for project management, I effectively organized and tracked the progress of various tasks, ranging from cluster upgrades to application scaling. The successful implementation of these tasks highlights my proficiency in both Kubernetes administration and Agile project management.
+This project showcases my expertise in managing and maintaining Kubernetes clusters, utilizing Agile methodologies and Scrum principles to ensure efficient project management and delivery. By leveraging Jira for project management, I effectively organized and tracked the progress of various tasks, ranging from cluster upgrades and backups to application scaling. The successful implementation of these tasks highlights my proficiency in both Kubernetes administration and Agile project management.
 
 ![image](https://github.com/CloudHirsi/Agile-Kubernetes-Project/assets/153539293/9c72397d-4f50-4d23-8140-af5f58774c42)
 ![image](https://github.com/CloudHirsi/Agile-Kubernetes-Project/assets/153539293/c8092ced-24a3-4252-9183-1736d1d99ca1)
